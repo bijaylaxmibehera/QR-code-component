@@ -24,7 +24,7 @@ body {
   height: 400px;
   padding: 10px;
   border-radius: 15px;
-  margin: 0 1em;
+  margin: 0 20px;
 }
 img {
   text-align: center;
@@ -39,6 +39,7 @@ img#qr-code-img {
   font-weight: 700;
   text-align: center;
   padding: 10px;
+  font-size: 1rem;
 }
 #description {
   color: var(--grayish-blue);
